@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LautaroAlfonso
+- 👋 Hi, I’m @COCO
 - 👀 I’m interested in Front -end
 - 🌱 I’m currently learning Javascript and React Js
 - 💞️ I’m looking to collaborate on ...
